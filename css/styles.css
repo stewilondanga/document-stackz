@@ -127,11 +127,12 @@ body {
   transition: all 0.3s cubic-bezier(0.28, 0.05, 0.65, 0.97);
 }
 
-/*#container .item:hover .content:after {
+#container .item:hover .content:after {
   width: 0;
   transition: all 0.3s cubic-bezier(0.28, 0.05, 0.65, 0.97);
 }
-#container .item:hover .content h2 {
+
+/*#container .item:hover .content h2 {
   color: #e8e8ee;
   transition: all 0.3s cubic-bezier(0.28, 0.05, 0.65, 0.97);
 }
