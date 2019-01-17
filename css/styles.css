@@ -142,11 +142,12 @@ body {
   box-shadow: -8px 5px 30px 0 rgba(0, 0, 0, 0.2);
 }
 
-/*#container .item:hover .previews .preview-image:nth-child(1) {
+#container .item:hover .previews .preview-image:nth-child(1) {
   transform: rotate(-5deg) translate(-150px, -100px);
   transition-delay: .4s;
 }
-#container .item:hover .previews .preview-image:nth-child(2) {
+
+/*#container .item:hover .previews .preview-image:nth-child(2) {
   transform: rotate(-10deg) translate(-120px, 0);
   transition-delay: .45s;
 }
