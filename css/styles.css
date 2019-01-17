@@ -152,11 +152,12 @@ body {
   transition-delay: .45s;
 }
 
-/*#container .item:hover .previews .preview-image:nth-child(3) {
+#container .item:hover .previews .preview-image:nth-child(3) {
   transform: rotate(-2deg) translate(-40px, 100px);
   transition-delay: .55s;
 }
-#container .item:hover .previews .preview-image:nth-child(4) {
+
+/*#container .item:hover .previews .preview-image:nth-child(4) {
   transform: rotate(2deg) translate(130px, 70px);
   transition-delay: .5s;
 }
