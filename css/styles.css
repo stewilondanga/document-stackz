@@ -147,11 +147,12 @@ body {
   transition-delay: .4s;
 }
 
-/*#container .item:hover .previews .preview-image:nth-child(2) {
+#container .item:hover .previews .preview-image:nth-child(2) {
   transform: rotate(-10deg) translate(-120px, 0);
   transition-delay: .45s;
 }
-#container .item:hover .previews .preview-image:nth-child(3) {
+
+/*#container .item:hover .previews .preview-image:nth-child(3) {
   transform: rotate(-2deg) translate(-40px, 100px);
   transition-delay: .55s;
 }
