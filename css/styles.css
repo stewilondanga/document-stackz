@@ -25,14 +25,15 @@ body {
   height: 1.5em;
 }
 
-/*#container {
+#container {
   display: flex;
   justify-content: space-between;
   align-items: center;
   height: 100%;
   padding: 0 20%;
 }
-@media (max-width: 968px) {
+
+/*@media (max-width: 968px) {
   #container {
     flex-wrap: wrap;
   }
