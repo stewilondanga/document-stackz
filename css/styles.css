@@ -117,7 +117,7 @@ body {
   z-index: 5;
 }
 
-/*#container .item:hover .content {
+#container .item:hover .content {
   background: #5a5863;
   border: 2px solid #5a5863;
   transform: rotate(0) scale(1.2);
@@ -126,7 +126,8 @@ body {
   box-shadow: -27px 18px 80px 0 rgba(0, 0, 0, 0.3);
   transition: all 0.3s cubic-bezier(0.28, 0.05, 0.65, 0.97);
 }
-#container .item:hover .content:after {
+
+/*#container .item:hover .content:after {
   width: 0;
   transition: all 0.3s cubic-bezier(0.28, 0.05, 0.65, 0.97);
 }
