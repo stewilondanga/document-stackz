@@ -113,10 +113,11 @@ body {
   width: 140%;
 }
 
-/*#container .item:hover {
+#container .item:hover {
   z-index: 5;
 }
-#container .item:hover .content {
+
+/*#container .item:hover .content {
   background: #5a5863;
   border: 2px solid #5a5863;
   transform: rotate(0) scale(1.2);
