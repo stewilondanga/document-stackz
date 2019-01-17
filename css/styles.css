@@ -97,7 +97,7 @@ body {
   right: 0;
 }
 
-/*#container .item .previews .preview-image {
+#container .item .previews .preview-image {
   width: 160px;
   height: 110px;
   transition: all 0.2s cubic-bezier(0.28, 0.05, 0.65, 0.97);
@@ -108,7 +108,8 @@ body {
   border-radius: 4px;
   box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.3);
 }
-#container .item .previews .preview-image img {
+
+/*#container .item .previews .preview-image img {
   width: 140%;
 }
 #container .item:hover {
