@@ -33,12 +33,13 @@ body {
   padding: 0 20%;
 }
 
-/*@media (max-width: 968px) {
+@media (max-width: 968px) {
   #container {
     flex-wrap: wrap;
   }
 }
-#container .item {
+
+/*#container .item {
   position: relative;
   width: 240px;
   height: 240px;
