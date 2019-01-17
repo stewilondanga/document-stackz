@@ -48,12 +48,13 @@ body {
   margin: 20px;
 }
 
-/*@media (max-width: 968px) {
+@media (max-width: 968px) {
   #container .item {
     width: 100%;
   }
 }
-#container .item .content {
+
+/*#container .item .content {
   height: 100%;
   width: 100%;
   border: 2px solid #e8e8ee;
