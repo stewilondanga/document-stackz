@@ -93,10 +93,11 @@ body {
   z-index: -1;
 }
 
-/*#container .item .previews:nth-child(2) .preview-image {
+#container .item .previews:nth-child(2) .preview-image {
   right: 0;
 }
-#container .item .previews .preview-image {
+
+/*#container .item .previews .preview-image {
   width: 160px;
   height: 110px;
   transition: all 0.2s cubic-bezier(0.28, 0.05, 0.65, 0.97);
