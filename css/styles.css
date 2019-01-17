@@ -109,10 +109,11 @@ body {
   box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.3);
 }
 
-/*#container .item .previews .preview-image img {
+#container .item .previews .preview-image img {
   width: 140%;
 }
-#container .item:hover {
+
+/*#container .item:hover {
   z-index: 5;
 }
 #container .item:hover .content {
