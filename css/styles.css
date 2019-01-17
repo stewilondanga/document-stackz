@@ -167,28 +167,33 @@ body {
   transition-delay: .6s;
 }
 
-/*@keyframes shake {
+@keyframes shake {
   0% {
     transform: rotate(3deg) scale(1.2);
   }
+
   20% {
     transform: rotate(-3deg) scale(1.2);
   }
+
   40% {
     transform: rotate(3deg) scale(1.2);
   }
+
   60% {
     transform: rotate(-3deg) scale(1.2);
   }
+
   80% {
     transform: rotate(3deg) scale(1.2);
   }
+
   100% {
     transform: rotate(0) scale(1.2);
   }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
