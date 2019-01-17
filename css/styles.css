@@ -68,12 +68,13 @@ body {
   box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.3);
 }
 
-/*#container .item .content h2 {
+#container .item .content h2 {
   font-weight: 600;
   color: #5a5863;
   transition: all 0.3s cubic-bezier(0.28, 0.05, 0.65, 0.97);
 }
-#container .item .content:after {
+
+/*#container .item .content:after {
   position: absolute;
   bottom: -2px;
   right: -2px;
